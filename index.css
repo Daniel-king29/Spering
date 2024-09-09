@@ -1,0 +1,399 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.den{
+    display: flex;
+}
+
+.dsd{
+    background-color: rgba(255, 0, 0, 0.692);
+    height: 35px;
+    width: 120px;
+    color: white;
+}
+
+.dsd:hover{
+    background-color: white;
+    color: red;
+}
+
+.dvd{
+    background-color:white, 
+}
+
+.dsded{
+    background-color: red;
+    color: white;
+    height: 35px;
+    width: 120px;
+}
+
+.dsded:hover{
+    color: red;
+    background-color:teal;
+}
+
+.des{
+    color: white;
+    text-decoration: none;
+    background-color: red;
+    height: 35px;
+    width: 120px;
+    text-align: center;
+}
+
+.des:hover{
+    background-color: white;
+    color: red;
+}
+
+.dest{
+    color: black;
+}
+
+/* .des:hover{
+    color: red;
+} */
+
+.tvd{
+    text-decoration: none; 
+    color: black;
+}
+
+.bend{
+    background-color: teal;
+    height: 35px;
+    width: 120px;
+    color: white;
+}
+
+.bend:hover{
+    background-color: white;
+    color: black;
+}
+
+.dvds{
+    background-color: white;
+    height: 35px;
+    width: 120px;    
+}
+
+.dvds:hover{
+    background-color: teal;
+}
+
+.bvn{
+    background-color: aqua;
+    display: flex;
+    gap: a;
+}
+.dvn{
+    text-align: center;
+    font-size:14px;
+}
+
+
+.drd{
+    display: flex;
+    margin-right: 50px;
+    /* font-size: 30px; */
+}
+
+#danv{
+    display: flex;
+}
+
+.nin{
+    margin-left: 120px;
+}
+
+.bbn{
+    margin-left:120px ;
+}
+
+.drv{
+    background-color: red;
+    color: white;
+    height: 25px;
+    width: 125px;
+}
+
+.drv:hover{
+    background-color: blue;
+    color: red;
+}
+
+.gev{
+    text-decoration: none;
+    color: white;
+}
+
+.bcb{
+    background-color: blue;
+    
+}
+
+.deed{
+    display: flex;
+    margin-top: 40px;
+}
+
+.gen{
+    display: flex;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+.hhee{
+    background-color: black;
+}
+
+
+.nav{
+    background-color:teal;
+}
+
+.ede{
+    display: flex;
+    margin-right: 50px;
+    font-size: 30px;
+}
+
+.red{
+    text-decoration: none;
+    color: white;
+    margin: 5px;
+}
+
+.wew{
+    margin-top: 30px;
+    margin-left: 50px;
+    display: flex;
+}
+
+.yerr{
+    font-size: 25px;
+    padding-bottom: 80px;
+}
+
+.yter{
+    height: 30px;
+    padding-top: 30px;
+}
+
+.daded{
+    background-color:teal;
+    display: flex;    
+}
+
+
+
+
+.hed{
+ 
+    height: 350px;
+    width: 250px;
+    background-color: aqua;
+    margin-left: 200px;
+    padding: 100px;
+}
+
+.red{
+    margin-left: 50px;
+}
+
+.desd{
+    display: flex;
+}
+
+.sed{
+    height: 350px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 80px;
+}
+
+.vvn{
+    margin-top: 220px;
+}
+
+.hhee{
+    background-color: teal;
+}
+
+.denee{
+    border-radius: 50px;
+}
+
+.deve{
+    color: beige;
+    text-align: center;
+}
+
+.reds{
+    margin-left: 500px;
+    height: 100px;
+    margin-top: 40px;
+}
+
+.head{
+    /* margin-left: 100px; */
+    color: white;
+}
+
+.drds{
+    text-decoration: none;
+    list-style: none; 
+    color: white;
+    font-size: small;
+}
+
+.serds{
+    display: flex;
+}
+
+
+.first{
+    color: white;
+    font-size:17px;
+}
+
+.fed{
+    margin-left: 50px;
+    width: 50px;
+    height: 50px;
+    margin-top: 20px;
+    
+}
+
+.hheee{
+    cursor: pointer;
+}
+
+.dead{
+    padding-right: 200px;
+    display: flex;
+}
+
+.dsds{
+    width: 20px;
+}
+
+#dev{
+    margin-bottom: 20px;
+}
+
+#desd{
+    height: 25px;
+    margin-bottom:10px ;
+    color: black;
+}
+
+.caro{
+    position: relative;
+    /* width: 100%; */
+    max-width: 100%;
+    overflow: hidden;
+    border-radius: 10px;
+    padding: 20px;
+    height: 400px;
+}
+
+.slides{
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+
+.slide{
+    flex-direction: column;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.prev, .next{
+    position: absolute;
+    top: 90px;
+    transform: translateY(-50%);
+    color: white;
+    background-color: black;
+    cursor: pointer;
+    border: none;
+    padding: 10px;
+    border-radius: 50px;
+    margin: 10px;
+    
+}
+
+.prev{
+    left: 10px;
+}
+
+.next{
+    right: 10px;
+}
+
+
+
+.caro{
+    position: relative;
+    /* width: 100%;  */
+    /* background-color: gold; */
+    max-width: 100%;
+    overflow: hidden;
+    /* border-radius: 10px; */
+    /* padding: 20px; */
+    /* box-shadow: 0 4px 8px rgb(157, 157, 241); */
+    height: 800px;
+    margin-top: 100px;
+    margin-right: 100px;
+}
+
+.slides{
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+    padding-top: 50px;
+}
+
+.slidess{
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+    padding-top: 50px;
+}
+
+.slide{
+    min-width: 100%;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.slid{
+    min-width: 100%;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.pre, .nex{
+    position: absolute;
+    top: 480px;
+    transform: translateY(-50%);
+    background-color: white;
+    color: rgb(133, 125, 125);
+    cursor: pointer;
+    border: none;
+    padding: 10px;
+    /* border-radius: 0px; */
+    margin: 10px;
+    width: 40px;
+    height: 40px;
+}
+
+.pre{
+    left: 580px;
+    
+}
+
+.nex{
+    right: 530px;
+}
+
+.pre:hover,.nex:hover{ 
+    background-color: red;
+}
