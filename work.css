@@ -1,0 +1,196 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.den {
+    display: flex;
+}
+
+/* .des:hover{
+    color: red;
+} */
+
+
+.dvds {
+    background-color: white;
+    height: 35px;
+    width: 120px;
+}
+
+.dvds:hover {
+    background-color: teal;
+}
+
+
+.drd {
+    display: flex;
+    margin-right: 50px;
+    /* font-size: 30px; */
+}
+
+
+.nin {
+    margin-left: 120px;
+}
+
+
+.drv {
+    background-color: red;
+    color: white;
+    height: 25px;
+    width: 125px;
+}
+
+.drv:hover {
+    background-color: blue;
+    color: red;
+}
+
+.gev {
+    text-decoration: none;
+    color: white;
+}
+
+.bcb {
+    background-color: blue;
+
+}
+
+
+.deed {
+    display: flex;
+    margin-top: 40px;
+}
+
+.gen {
+    display: flex;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+.hhee {
+    background-color: black;
+}
+
+
+.nav {
+    background-color: teal;
+}
+
+.ede {
+    display: flex;
+    margin-right: 50px;
+    font-size: 30px;
+}
+
+.red {
+    text-decoration: none;
+    color: white;
+    margin: 5px;
+}
+
+.wew {
+    margin-top: 30px;
+    margin-left: 50px;
+    display: flex;
+}
+
+.yerr {
+    font-size: 25px;
+    padding-bottom: 80px;
+}
+
+.yter {
+    height: 30px;
+    padding-top: 30px;
+}
+
+.daded {
+    background-color: teal;
+    display: flex;
+}
+
+
+.red {
+    margin-left: 50px;
+}
+
+.desd {
+    display: flex;
+}
+
+
+.hhee {
+    background-color: teal;
+}
+
+
+
+.reds {
+    margin-left: 500px;
+    height: 100px;
+    margin-top: 40px;
+}
+
+.head {
+    /* margin-left: 100px; */
+    color: white;
+}
+
+
+.drds {
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    font-size: small;
+}
+
+.serds {
+    display: flex;
+}
+
+
+.first {
+    color: white;
+    font-size: 17px;
+}
+
+.fed {
+    margin-left: 50px;
+    width: 50px;
+    height: 50px;
+    margin-top: 20px;
+
+}
+
+.hheee {
+    cursor: pointer;
+}
+
+.dead {
+    padding-right: 200px;
+    display: flex;
+}
+
+.dsds {
+    width: 20px;
+}
+
+#dev {
+    margin-bottom: 20px;
+}
+
+#desd {
+    height: 25px;
+    margin-bottom: 10px;
+    color: black;
+}
+
+/* .seds {
+    margin-left: 500000px;
+} */
+
+.denee{
+    margin-left: 500px;
+}

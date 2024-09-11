@@ -84,10 +84,15 @@ body{
 }
 
 .bvn{
-    background-color: aqua;
     display: flex;
-    gap: a;
+    text-align: center;
 }
+
+#bvn{
+    background-color: aqua;
+    column-gap: 250px;
+}
+
 .dvn{
     text-align: center;
     font-size:14px;
@@ -187,7 +192,9 @@ body{
     display: flex;    
 }
 
-
+.dade{
+    display: flex;
+}
 
 
 .hed{
@@ -227,8 +234,8 @@ body{
 }
 
 .deve{
-    color: beige;
     text-align: center;
+
 }
 
 .reds{
@@ -290,24 +297,25 @@ body{
     color: black;
 }
 
-.caro{
+.carol{
     position: relative;
     /* width: 100%; */
-    max-width: 100%;
+    /* max-width: 100%; */
     overflow: hidden;
     border-radius: 10px;
     padding: 20px;
-    height: 400px;
 }
 
 .slides{
     display: flex;
     transition: transform 0.5s ease-in-out;
+    width: 100%;
 }
 
 .slide{
     flex-direction: column;
     transition: opacity 0.5s ease-in-out;
+    /* width: 100%; */
 }
 
 .prev, .next{
@@ -343,31 +351,29 @@ body{
     /* border-radius: 10px; */
     /* padding: 20px; */
     /* box-shadow: 0 4px 8px rgb(157, 157, 241); */
-    height: 800px;
     margin-top: 100px;
-    margin-right: 100px;
 }
 
 .slides{
     display: flex;
-    transition: transform 0.5s ease-in-out;
     padding-top: 50px;
 }
 
 .slidess{
     display: flex;
-    transition: transform 0.5s ease-in-out;
     padding-top: 50px;
 }
 
 .slide{
     min-width: 100%;
     transition: opacity 0.5s ease-in-out;
+    display: flex;
 }
 
 .slid{
     min-width: 100%;
     transition: opacity 0.5s ease-in-out;
+    display: flex;
 }
 
 .pre, .nex{
@@ -396,4 +402,12 @@ body{
 
 .pre:hover,.nex:hover{ 
     background-color: red;
+}
+
+#sade{
+    background-color: skyblue;
+}
+
+#tang{
+    background-color: teal;
 }

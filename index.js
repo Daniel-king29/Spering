@@ -49,4 +49,4 @@ document.querySelector('.nex').addEventListener('click', nextslide)
 document.querySelector('.pre').addEventListener('click', prevslide)
 
 
-setInterval(nextslide, 1000);//after every 4 seconds //
+setInterval(nextslide, 3000);//after every 4 seconds //
